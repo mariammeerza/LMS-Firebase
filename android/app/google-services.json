@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635476020465",
+    "project_id": "lms-project-ab4a3",
+    "storage_bucket": "lms-project-ab4a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635476020465:android:82a53b6813a5a6dae56d50",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCML7knG1RNvS0D4acfxz9lOySS2tWg9mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
